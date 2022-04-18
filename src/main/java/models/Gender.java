@@ -1,0 +1,7 @@
+package models;
+
+public enum Gender {
+    Male,
+    Female,
+    None
+}
